@@ -60,9 +60,7 @@ Make sure you have the following installed:
 
 ## Running the Project
 
-1. Place Your Datasets
-
-Download iphone_ebay.csv and samsung_ebay.csv and place them in the data/ directory.
+1. Place Your Datasets by downloading iphone_ebay.csv and samsung_ebay.csv and placing them in the data/ directory.
 
 2. Run the Python Script
    ```bash
